@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/za_russianlocalization",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License",
+    "homepage": "",
+    "description": "If you are building website for Russia - use this extension to enable Russian language in your shop.",
+    "authors": [
+    {
+        "name": "SebWeo.com",
+        "email": "anzavad@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
